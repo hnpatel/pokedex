@@ -13,6 +13,7 @@
 		EC7A5F6B1F8DB71A00C899C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC7A5F6A1F8DB71A00C899C0 /* Assets.xcassets */; };
 		EC7A5F6E1F8DB71A00C899C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC7A5F6C1F8DB71A00C899C0 /* LaunchScreen.storyboard */; };
 		EC7A5F791F8DB71A00C899C0 /* pokedexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7A5F781F8DB71A00C899C0 /* pokedexTests.swift */; };
+		EC7A5F841F8DB77200C899C0 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = EC7A5F831F8DB77200C899C0 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		EC7A5F741F8DB71A00C899C0 /* pokedexTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pokedexTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC7A5F781F8DB71A00C899C0 /* pokedexTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pokedexTests.swift; sourceTree = "<group>"; };
 		EC7A5F7A1F8DB71A00C899C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC7A5F831F8DB77200C899C0 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				EC7A5F651F8DB71A00C899C0 /* ViewController.swift */,
 				EC7A5F671F8DB71A00C899C0 /* Main.storyboard */,
 				EC7A5F6A1F8DB71A00C899C0 /* Assets.xcassets */,
+				EC7A5F831F8DB77200C899C0 /* pokemon.csv */,
 				EC7A5F6C1F8DB71A00C899C0 /* LaunchScreen.storyboard */,
 				EC7A5F6F1F8DB71A00C899C0 /* Info.plist */,
 			);
@@ -183,6 +186,7 @@
 			files = (
 				EC7A5F6E1F8DB71A00C899C0 /* LaunchScreen.storyboard in Resources */,
 				EC7A5F6B1F8DB71A00C899C0 /* Assets.xcassets in Resources */,
+				EC7A5F841F8DB77200C899C0 /* pokemon.csv in Resources */,
 				EC7A5F691F8DB71A00C899C0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
